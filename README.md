@@ -16,6 +16,7 @@ View Loans (Banker): Bankers can post loan details for interested investors and 
 Business Advisor: The platform will have a business advisor role to guide the process and evaluate potential investments and solutions.
 
 
+
 System Architecture
 The architecture consists of the following components:
 
@@ -23,3 +24,8 @@ Frontend: The UI is designed using HTML, CSS, and JavaScript, which interacts wi
 Backend: Firebase handles user authentication (via Firebase Auth), data storage (using Firebase Realtime Database), and cloud hosting (Firebase Hosting).
 Database: Firebase Realtime Database stores all data, including user profiles, business ideas, investor proposals, and loan details.
 Cloud Hosting: The application is hosted on Firebase for easy deployment and scalability.
+
+
+
+
+For live preview visit : https://trial-ef79c.web.app/
